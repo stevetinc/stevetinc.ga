@@ -1,0 +1,51 @@
+
+---Upload files---
+The import files were successfully uploaded!
+Initial max execution time = 0
+Files info:
+Site URL = https://iqonic.design/wp-themes/talkie
+Data file = /var/www/html/wp-themes/talkie/wp-content/uploads/2020/01/talkie-xml-3.xml
+Widget file = /var/www/html/wp-themes/talkie/wp-content/uploads/2020/01/talkie-widgets-3.wie
+Customizer file = /var/www/html/wp-themes/talkie/wp-content/uploads/2020/01/talkie-export-3.dat
+Redux files:
+talkie_options -> /var/www/html/wp-themes/talkie/wp-content/uploads/2020/01/talkie_redux-3.json 
+
+
+---Importing widgets---
+Footer #1 : 
+
+Search - No Title - Widget already exists
+Categories - Categories - Imported
+Archives - Archives - Imported
+Recent Posts - Recent Post - Imported
+Tag Cloud - Tags - Imported
+
+footer_1_sidebar : Sidebar does not exist in theme (moving widget to Inactive)
+
+Talkie Footer Logo - No Title - Imported to Inactive
+Text - No Title - Imported to Inactive
+Talkie Subscribe - No Title - Imported to Inactive
+
+footer_2_sidebar : Sidebar does not exist in theme (moving widget to Inactive)
+
+Navigation Menu - Products - Imported to Inactive
+
+footer_3_sidebar : Sidebar does not exist in theme (moving widget to Inactive)
+
+Navigation Menu - Integration - Imported to Inactive
+
+footer_4_sidebar : Sidebar does not exist in theme (moving widget to Inactive)
+
+Talkie Contact - Quick Contact - Imported to Inactive
+
+footer_top_area : Sidebar does not exist in theme (moving widget to Inactive)
+
+Text - No Title - Imported to Inactive
+
+
+
+---Importing Redux settings---
+The Redux option name: talkie_options, was not found in this WP site, so it was not imported!
+
+---Importing customizer settings---
+Error: The customizer import file is not suitable for current theme. You can only import customizer settings for the same theme or a child theme.

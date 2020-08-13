@@ -1,0 +1,54 @@
+
+---Downloaded files---
+The import files for: Demo 1 were successfully downloaded!
+Initial max execution time = 0
+Files info:
+Site URL = https://iqonic.design/wp-themes/talkie
+Data file = /var/www/html/wp-themes/talkie/wp-content/themes/talkie/inc/demo/demo-1/talkie_xml.xml
+Widget file = /var/www/html/wp-themes/talkie/wp-content/themes/talkie/inc/demo/demo-1/talkie-widgets.wie
+Customizer file = /var/www/html/wp-themes/talkie/wp-content/themes/talkie/inc/demo/demo-1/talkie_export.dat
+Redux files:
+talkie_options -> /var/www/html/wp-themes/talkie/wp-content/themes/talkie/inc/demo/demo-1/talkie_redux.json 
+
+
+---Importing widgets---
+Blog Sidebar : 
+
+Search - No Title - Widget already exists
+Categories - Categories - Widget already exists
+Archives - Archives - Widget already exists
+Recent Posts - Recent Post - Widget already exists
+Tag Cloud - Tags - Widget already exists
+
+Footer Area 1 : 
+
+Talkie Footer Logo - No Title - Imported
+Text - No Title - Imported
+Talkie Subscribe - No Title - Imported
+
+Footer Area 2 : 
+
+Navigation Menu - Products - Imported
+
+Footer Area 3 : 
+
+Navigation Menu - Integration - Imported
+
+Footer Area 4 : 
+
+Talkie Contact - Quick Contact - Imported
+
+Footer Top Area : 
+
+Text - No Title - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: talkie_options finished successfully!
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+

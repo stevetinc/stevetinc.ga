@@ -1,0 +1,180 @@
+/*
+
+Template: Talkie  - Chatbot Landing Page WordPress Theme
+Author: iqonicthemes.in
+Version: 1.2
+Design and Developed by: iqonicthemes.in
+
+
+*/
+@media only screen and (min-width:1200px) {
+	body.boxed_layout { padding: 30px; }
+}
+@media(max-width:1499px) {
+	header .main-header { padding: 0 70px }
+	header .sub-header { padding: 10px 70px }
+}
+@media(max-width:1399px) {
+	header .sub-header { padding: 10px 30px }
+	header .main-header { padding: 0 30px }
+	.iq-mt-120 { margin-top: 90px; }
+}
+@media(max-width:1365px) {
+	header .sub-header { padding: 10px 15px }
+	header .main-header { padding: 0 15px }
+	header .navbar ul li a { font-size: 14px }
+	header .navbar ul li .sub-menu li a { padding: 10px 15px; }
+}
+@media(max-width:1199px) {
+	.widget.widget_nav_menu ul li .sub-menu, .widget ul.menu li .sub-menu { padding-left: 10px }
+	table td, table th { padding: 5px; text-align: center }
+	.comment-respond .comment-form-author, .comment-respond .comment-form-email, .comment-respond .comment-form-url { width: 31.6%; }
+}
+@media(max-width:1024px) {
+	section .elementor-column-gap-default>.elementor-row>.elementor-element-d2e5432>.elementor-element-populated, section .elementor-column-gap-default>.elementor-row>.elementor-element-9a53d22 >.elementor-element-populated { padding: 0 15px; }
+	.iq-talkie-price-3.active { transform: scale(1); }
+}
+@media(max-width:992px) {
+	h2 { font-size: 2rem }
+	.pricing-tab { margin: 0; }
+	.iq-breadcrumb-one { padding: 30px 0; }
+	#iq-talkie-price { margin-top: 90px; padding: 15px; }
+	.iq-feature-circle{display: block;}
+	header .logo_block, header.header_default .logo_block { padding: 0; }
+	#iq-talkie-price .tab-content > .tab-pane { display: inline-block; position: relative; left: 0; top: 0; margin: 0 0 60px; }
+	.site-main .sf-content>.vc_row.wpb_row.vc_row-fluid, .content-area .site-main, .home.blog .content-area .site-main { padding: 70px 0 }
+	.shop_list { display: none; }
+	header { position: relative; }
+	header .main-header { padding: 10px 0 }
+	header .navbar-light .navbar-toggler { background: #ff7364; color: #ffffff; border-color: #ff7364; padding: 0; position: absolute; right: 0; top: -45px; }
+	header .request-btn { margin-right: 60px; position: absolute; top: -45px; right: 0; }
+	header .navbar-light .navbar-toggler:focus { outline: none }
+	header .menu, header.header_default .menu { float: left; display: inline-block; width: 100%; }
+	header .logo_block .logo, header.header_default .logo_block .logo, header .logo_block .logo-sticky, header.header_default .logo_block .logo-sticky { height: 35px; }
+	header .navbar-collapse { position: absolute; top: 10px; line-height: 0; left: 0; display: inline-block; width: 100%; -webkit-box-shadow: 4.871px 34.659px 30px 0px rgba(0, 0, 0, 0.06); -moz-box-shadow: 4.871px 34.659px 30px 0px rgba(0, 0, 0, 0.06); box-shadow: 4.871px 34.659px 30px 0px rgba(0, 0, 0, 0.06); }
+	header .navbar ul { overflow-y: scroll; max-height: 350px; float: left; display: inline-block; width: 100%; background: #ffffff }
+	header .navbar ul li .sub-menu li.current-menu-item i { color: #ffffff; }
+	header .navbar ul li { margin-left: 0; display: inline-block; position: relative; width: 100% }
+	header .navbar ul li a { color: #11122d; line-height: normal; display: inline-block; width: 100%; font-size: 16px; padding: 15px; z-index: inherit }
+	header .navbar ul li a:before { border-radius: 0 }
+	header .navbar ul li .sub-menu, header .navbar ul li:hover .sub-menu { display: none; background: transparent; position: relative; top: 0; width: 100%; padding: 0 15px; z-index: 9 }
+	header .navbar ul li .sub-menu li a { color: #6f6f6f }
+	header .navbar ul li i { display: block; position: absolute; right: 0; top: 0; padding: 12px 15px; line-height: 28px; font-size: 20px; z-index: 9; color: #59597e; transition: all 0.3s ease-in-out; transition: all 0.3s ease-in-out; -moz-transition: all 0.3s ease-in-out; -ms-transition: all 0.3s ease-in-out; -o-transition: all 0.3s ease-in-out; -webkit-transition: all 0.3s ease-in-out }
+	header .navbar ul li.current-menu-item i, header .navbar ul li.current-menu-parent i { color: #ffffff }
+	header.menu-sticky .main-header .navbar ul li a { line-height: normal }
+	header.menu-sticky .main-header .navbar ul li:hover .sub-menu { top: 0 }
+	header .navbar ul li .sub-menu li i { top: 0; right: 0; color: #6f6f6f; font-size: 20px; line-height: 24px; }
+	header .navbar ul li .sub-menu li:hover>.sub-menu { width: 100%; background: #59597e; position: relative; left: 0; box-shadow: none; padding: 0 }
+	header .navbar ul li a:before { display: none }
+	header .navbar ul li.current-menu-item a, header .navbar ul li a:hover { background: #ff7364; color: #fff; }
+	header.menu-sticky .navbar ul li.current-menu-ancestor a, header .navbar ul li.current-menu-ancestor a, header .navbar ul li.current-menu-parent a { color: #ffffff; background: #ff7364; }
+	header.menu-sticky .navbar ul li.current-menu-ancestor i, header .navbar ul li .sub-menu li:hover, header .navbar ul li a:hover, header .navbar ul li.current-menu-item a, header .navbar ul li.current-menu-parent a, header .navbar ul li.current-menu-parent i, header .navbar ul li.current-menu-ancestor a, header .navbar ul li.current-menu-parent i, header .navbar ul li.current-menu-ancestor i { color: #ffffff; }
+	header.menu-sticky .navbar ul li a, header.menu-sticky .navbar ul li i { color: #59597e; }
+	header .navbar ul li .sub-menu li i::before { content: "\f3d0"; }
+	.widget_calendar .calendar_wrap table th, .widget_calendar .calendar_wrap table td { padding: 5px }
+	.commentlist .comment-respond .comment-form-author, .comment-respond .comment-form-email, .comment-respond .comment-form-url { width: 31.6% }
+	.iq-mt-120 { margin-top: 60px; }
+	.iq-breadcrumb .title { font-size: 38px; }
+	.widget_calendar .calendar_wrap table th, .widget_calendar .calendar_wrap table td { padding: 2px }
+	.commentlist .comment-respond .comment-form-author, .comment-respond .comment-form-email, .comment-respond .comment-form-url, .comment-respond .comment-form-author, .comment-respond .comment-form-email, .comment-respond .comment-form-url { width: 100%; margin-right: 0 }
+	.comment-form-cookies-consent label { margin-top: -32px }
+	.iq-counter .timer { font-size: 52px; line-height: 62px; }
+	.elementor .left_img img { max-width: 100%; left: 0;}
+	.iq-talkie-price-2 .iq-talkie-price-info { padding: 30px 15px; }
+	.owl-carousel.blog-carousel { margin: 0; }
+
+	.iq-vertical-tab .nav.nav-pills {border-right: none;}
+	.client-box-shodow {padding: 30px 15px;}
+}
+@media(max-width:767px) {
+	.box-effect .feature-info { margin-left: 0; width: 100%; }
+	.iq-faq .iq-faq-title { padding: 15px 15px; }
+	.iq-faq .iq-faq-details { padding: 0 15px 30px; }
+	header .main-header { padding: 10px 15px; }
+	.iq-testimonial { padding: 0 15px; }
+	.page-numbers li .prev.page-numbers, .page-numbers li .next.page-numbers { display: none }
+	section .elementor-section.elementor-section-boxed.bg_white>.elementor-container { padding: 30px 15px 60px; }
+	.elementor-shortcode .mc4wp-form [type=submit] { margin-left: 15px; }
+
+	/* 	header .sub-header nav { display: none } */
+	.error-404 .big-text { font-size: 200px }
+	.contact-block .vc_column-inner, .widget-area { margin-top: 30px }
+	.commentlist .iq-comment-wrap { display: block }
+	.commentlist ol.children { padding-left: 30px }
+	.commentlist .iq-comments-photo { padding-right: 0; margin-bottom: 15px }
+	.iq-mt-120 { margin-top: 0; }
+	.scrolling-text { font-size: 42px; line-height: 52px; left: 15px; }
+	.no-margin .iq-mb-30, .iq-mb-30 { margin-bottom: 30px !important; }
+	.no-margin .iq-mt-30, .iq-mt-30 { margin-top: 30px !important; }
+	.iq-objects-style-1:before, .iq-objects-style-2:before { height: 100%; }
+	.iq-objects-style-2 .iq-objects-02 { top: 33%; }
+	.iq-masonry.iq-columns-3 .iq-masonry-item { padding-right: 0; }
+	.iq-objects-style-2:before { top: 0; }
+	.iq-breadcrumb.text-left, .iq-breadcrumb .text-left, .copyright-footer { text-align: center !important; }
+	.iq-breadcrumb .float-right { float: none !important; }
+	.footer-subscribe .vc_custom_heading { margin-bottom: 15px; }
+	.iq-breadcrumb .title { font-size: 32px; }
+	.iq-breadcrumb.text-left .breadcrumb li, .iq-breadcrumb.text-left .breadcrumb li a { font-size: 14px; }
+	.copyright-footer .col-auto { display: inline-block; width: 100%; }
+	.iq-talkie-price.active { margin-top: 30px; }
+	.iq-feature-circle { height: 450px; width: 100%; }
+	.iq-feature-circle .iq-img::before, .iq-feature-circle .iq-img { height: 400px; width: 400px; }
+	footer .footer-topbar { width: 100%; margin: 0 auto; }
+	footer .footer-topbar .container { padding: 30px; }
+	.elementor-shortcode .mc4wp-form input[type=email] { width: 100%; margin-bottom: 30px; }
+	.button.mr-sm-4 { margin-right: 30px; }
+	.elementor-section.elementor-section-boxed.bg_white>.elementor-container{padding:30px;}
+
+
+}
+@media(max-width:654px) {
+.comment-form-cookies-consent label{margin-left: 30px;}
+.testimonial-sliderbox .owl-carousel .iq-testimonial {margin: 15px 0px 66px 0px;}
+}
+@media(max-width:479px) {
+
+	.iq-amazing-tab .nav-tabs { -webkit-border-radius: 10px; -moz-border-radius: 10px; padding: 5px; border-radius: 10px; }
+	.iq-amazing-tab .nav-tabs .nav-link { -webkit-border-radius: 10px; -moz-border-radius: 10px; border-radius: 10px; }
+	.iq-blog-box   .iq-blog-meta ul li:last-child { margin-bottom: 0; }
+	.button.mr-sm-4 { margin-right: 15px; }
+	.iq-talkie-price.active::before, .iq-talkie-price:hover::before { display: none; }
+	.elementor-shortcode .mc4wp-form [type=submit] { margin-left: 0; }
+	.iq-talkie-price-2 .iq-talkie-price-info { padding: 30px; }
+	.iq-feature-circle { height: 300px; }
+	.iq-feature-circle .iq-img::before, .iq-feature-circle .iq-img { height: 250px; width: 250px; }
+	.iq-feature-circle .dot-circle { display: none; }
+	.iq-feature-circle .iq-img ul li .feature-info .feature-img { height: 45px; width: 45px; line-height: 45px; font-size: 24px; }
+	.iq-feature-circle .circle-bg { height: 100px; line-height: 100px; width: 100px; }
+	.iq-feature-circle .circle-bg img { width: 60px; }
+	.iq-feature-circle .iq-img ul li:nth-child(1) .feature-info { top: -24px; }
+	.iq-feature-circle .iq-img ul li:nth-child(2) .feature-info { left: -8%; }
+	.iq-feature-circle .iq-img ul li:nth-child(3) .feature-info { right: -8%; }
+	.iq-amazing-tab .nav-tabs li { margin-right: 0; }
+	.iq-blog-box .iq-blog-detail, .has-post-thumbnail .iq-blog-box .iq-blog-detail { padding: 15px; }
+	ul.list-column-two, ul.list-column-three, ul.list-column-four { columns: 1; -webkit-columns: 1; -moz-columns: 1; }
+	.iq-feature-list.text-left { display: block; margin-bottom: 10px; width: 100%; float: left; }
+	.iq-feature-list.text-left .iq-icon { margin-bottom: 30px; }
+	.iq-feature-list.text-left .feature-info { float: left; margin-left: 0; width: 100%; }
+	.iq-feature .iq-icon { margin-bottom: 15px; display: block; }
+	.iq-feature-info { display: block; }
+	.iq-progress-bar { width: 80%; }
+	.owl-carousel.blog-carousel .owl-item { padding: 0; }
+	.owl-carousel .iq-blog-box .iq-blog-detail { padding: 15px; }
+	.iq-amazing-tab .nav-tabs .nav-link span::before { display: none; }
+	.error-404 .big-text { font-size: 150px; line-height: 160px }
+	header .request-btn, header .social-icone { display: none; }
+	header .navbar-light .navbar-toggler { right: 0; }
+	.scrolling-text { font-size: 32px; line-height: 42px; }
+	.iq-amazing-tab .nav-tabs .nav-link span { width: 100%; height: 100%; }
+	.iq-amazing-tab .nav-tabs .nav-item { width: 100%; margin-bottom: 15px; }
+	.iq-amazing-tab .nav-tabs .nav-link.active span, .iq-amazing-tab .nav-tabs .nav-link:hover span { background: #ff7364; }
+	.iq-amazing-tab .nav-tabs .nav-link::before { display: none; }
+    
+    .iq-vertical-tab {padding: 15px 0px;}
+ 	.iq-vertical-tab .tab-content {padding-left: 15px;}
+ 	.client-box-shodow {padding: 15px;}
+
+}
+@media(max-width:359px) {
+	.sub-header { display: none }
+}

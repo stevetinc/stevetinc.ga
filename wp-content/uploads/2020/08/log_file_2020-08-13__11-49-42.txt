@@ -1,0 +1,220 @@
+
+---Downloaded files---
+The import files for: Demo 1 were successfully downloaded!
+Initial max execution time = 100000
+Files info:
+Site URL = http://localhost/stevetinc.ga
+Data file = C:\xampp\htdocs\stevetinc.ga/wp-content/themes/talkie/inc/demo/demo-1/talkie-xml.xml
+Widget file = C:\xampp\htdocs\stevetinc.ga/wp-content/themes/talkie/inc/demo/demo-1/talkie-widgets.wie
+Customizer file = C:\xampp\htdocs\stevetinc.ga/wp-content/themes/talkie/inc/demo/demo-1/talkie-export.dat
+Redux files:
+talkie_options -> C:\xampp\htdocs\stevetinc.ga/wp-content/themes/talkie/inc/demo/demo-1/talkie_redux.json 
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "favicon" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "favicon" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "favicon" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "favicon" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "favicon" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "favicon" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "favicon" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "favicon" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "favicon" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "favicon" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "favicon" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "favicon" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "favicon" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "favicon" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "favicon" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "favicon" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "favicon" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "favicon" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "favicon" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "favicon" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "favicon" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "favicon" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "favicon" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "favicon" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "favicon" (Media)
+
+
+---Importing widgets---
+Blog Sidebar : 
+
+Search - No Title - Widget already exists
+Recent Posts - No Title - Widget already exists
+Recent Comments - No Title - Widget already exists
+Categories - Categories - Imported
+Archives - Archives - Imported
+Recent Posts - Recent Post - Imported
+Tag Cloud - Tags - Imported
+Archives - No Title - Widget already exists
+Categories - No Title - Widget already exists
+Meta - No Title - Widget already exists
+
+Footer Area 1 : 
+
+Talkie Footer Logo - No Title - Imported
+Text - No Title - Imported
+Talkie Subscribe - No Title - Imported
+
+Footer Area 2 : 
+
+Navigation Menu - Products - Imported
+
+Footer Area 3 : 
+
+Navigation Menu - Integration - Imported
+
+Footer Area 4 : 
+
+Talkie Contact - Quick Contact - Imported
+
+Footer Top Area : 
+
+Text - No Title - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: talkie_options finished successfully!
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+

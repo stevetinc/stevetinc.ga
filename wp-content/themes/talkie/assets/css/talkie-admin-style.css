@@ -1,0 +1,348 @@
+/*
+Template: Talkie
+Author: iqonicthemes.in
+Version: 1.0
+Design and Developed by: iqonicthemes.in
+
+NOTE: This is main stylesheet of template, This file contains the styling for the actual Template. Please do not change anything here! write in a custom.css file if required!
+
+*/
+
+/*================================================
+[  Table of contents  ]
+================================================
+
+
+:: General
+:: Clearing floats
+:: Back to Top
+
+
+======================================
+[ End table content ]
+======================================*/
+
+/*---------------------------------------------------------------------
+                              General
+-----------------------------------------------------------------------*/
+.admin-color-fresh #redux-header, .wp-customizer #redux-header {
+	background: #2b2b2b;
+	border-color: #19beec;
+}
+
+.redux-sidebar .redux-group-menu li a {
+	background: #2b2b2b;
+	opacity: 1;
+	color: #a9abae;
+	border-bottom-color: rgba(255, 255, 255, .08);
+}
+
+.admin-color-fresh .redux-sidebar .redux-group-menu li.activeChild.hasSubSections a, .wp-customizer .redux-sidebar .redux-group-menu li.activeChild.hasSubSections a {
+	background: #2b2b2b;
+	color: #19beec;
+	text-shadow: none;
+}
+
+.redux-container #redux-header .display_header {
+	padding: 20px;
+}
+
+.redux-sidebar .redux-group-menu li a {
+	padding: 15px;
+}
+
+.redux-sidebar .redux-group-menu li a span {
+	margin-left: 30px;
+}
+
+.admin-color-fresh .redux-sidebar .redux-group-menu li.active.hasSubSections ul.subsection li a, .admin-color-fresh .redux-sidebar .redux-group-menu li.activeChild.hasSubSections ul.subsection li a, .wp-customizer .redux-sidebar .redux-group-menu li.active.hasSubSections ul.subsection li a, .wp-customizer .redux-sidebar .redux-group-menu li.activeChild.hasSubSections ul.subsection li a {
+	padding: 10px;
+}
+
+.redux-sidebar .redux-group-menu li a:hover, .admin-color-fresh .redux-sidebar .redux-group-menu li.active.hasSubSections ul.subsection li a:hover, .admin-color-fresh .redux-sidebar .redux-group-menu li.activeChild.hasSubSections ul.subsection li a:hover, .wp-customizer .redux-sidebar .redux-group-menu li.active.hasSubSections ul.subsection li a:hover, .wp-customizer .redux-sidebar .redux-group-menu li.activeChild.hasSubSections ul.subsection li a:hover {
+	color: #19beec;
+	background: #2b2b2b;
+}
+
+.admin-color-fresh .redux-sidebar .redux-group-menu li.activeChild.hasSubSections ul.subsection li.active a, .wp-customizer .redux-sidebar .redux-group-menu li.activeChild.hasSubSections ul.subsection li.active a {
+	background: #19beec;
+}
+
+.admin-color-fresh .redux-sidebar .redux-group-menu li.activeChild.hasSubSections ul.subsection li a, .wp-customizer .redux-sidebar .redux-group-menu li.activeChild.hasSubSections ul.subsection li a {
+	background: #2b2b2b;
+}
+
+.admin-color-fresh .redux-sidebar .redux-group-menu li.activeChild.hasSubSections ul.subsection li a {
+	color: #a9abae;
+}
+
+.admin-color-fresh .redux-sidebar .redux-group-menu li.activeChild.hasSubSections ul.subsection li.active a, .wp-customizer .redux-sidebar .redux-group-menu li.activeChild.hasSubSections ul.subsection li.active a {
+	text-shadow: none;
+	color: #ffffff;
+}
+
+.redux-sidebar ul .subsection {
+	border: 1px solid #19beec;
+}
+
+.redux-container-text input, .redux-main input.large-text {
+	height: 45px;
+	padding: 0 15px;
+	margin-bottom: 15px;
+	    box-shadow: none;
+
+}
+
+.redux-main .button {
+	font-size: 14px;
+	height: 45px;
+	line-height: 45px;
+	padding: 0 35px;
+	box-shadow: none;
+	color: #fff;
+	text-shadow: none;
+	border-radius: 0;
+	margin: 0 5px;
+	background: #2b2b2b;
+}
+
+.redux-container-switch .switch-options label {
+    line-height: 45px;
+    cursor: pointer;
+    border-radius: 0;
+    height: 45px;
+    padding: 0 25px;
+}
+.redux-main .button:hover {
+	background: #19beec;
+	color: #ffffff;
+	border-color: #19beec;
+}
+
+.redux-main .button.remove-image {
+	background: #19beec;
+	color: #ffffff;
+	border-color: #19beec;
+}
+.sp-replacer{padding: 10px;}
+.redux-container .redux-group-tab h3{text-transform: capitalize;}
+.redux-container-switch .cb-disable span, .redux-container-switch .cb-enable span{line-height: 43px;}
+.redux-main .admin-color-fresh .redux-container-switch .cb-disable,.redux-main .admin-color-fresh .redux-container-switch .cb-enable, .redux-main .admin-color-fresh .ui-state-default, .admin-color-fresh .ui-widget-content .ui-state-default, .admin-color-fresh .ui-widget-header .ui-state-default, .wp-customizer .redux-container-switch .cb-disable, .wp-customizer .redux-container-switch .cb-enable, .wp-customizer .ui-state-default, .wp-customizer .ui-widget-content .ui-state-default, .wp-customizer .ui-widget-header .ui-state-default{
+	background:#2b2b2b !important;
+	border-color: #2b2b2b !important;
+	color:#ffffff;
+}
+
+.redux-main .button.remove-image:hover {
+	background: #2b2b2b;
+	border-color: #2b2b2b;
+	color: #ffffff;
+}
+
+.wp-core-ui .redux-main .button.wp-color-result{    padding: 0 0 0 60px;}
+
+.wp-core-ui .redux-main  .button-secondary:focus,.wp-core-ui .redux-main  .button-secondary:hover,.wp-core-ui .redux-main  .button.focus,.wp-core-ui .redux-main  .button.hover,.wp-core-ui .redux-main  .button:focus,.wp-core-ui .redux-main  .button:hover{
+	background: #19beec;
+	border-color: #19beec;
+	color:#ffffff;
+	text-shadow: none;
+}
+.redux-main #redux-sticky #info_bar {
+	height: 45px;
+
+}
+
+.redux-container #info_bar {
+	padding: 15px;
+}
+
+.redux-container-image_select ul.redux-image-select li {
+	padding: 5px 5px 15px 5px;
+}
+
+.redux-main .redux-option-image {
+	margin-bottom: 15px;
+}
+
+.redux-main .input-prepend, .redux-main .input-prepend input, .redux-container-sortable input {
+	    box-shadow: none;
+	height: 45px;
+}
+
+.redux-container-sortable input {
+	padding: 15px;
+}
+
+.redux-main .input-append .add-on, .redux-main .input-prepend .add-on {
+	height: 43px;
+	line-height: 43px;
+	padding: 0 5px;
+}
+
+.redux-main #redux-sticky #info_bar .expand_options {
+	margin-top: 7px;
+}
+
+.redux-container .expand_options {
+	height: 30px;
+	width: 30px;
+	background-position: 3px -21px;
+}
+
+.redux-main .wp-media-buttons span.wp-media-buttons-icon {
+	width: auto;
+	height: 40px;
+	vertical-align: middle;
+	margin-right: 10px;
+}
+
+.redux-main  .wp-media-buttons .insert-media {
+	margin-bottom: 15px;
+	padding: 0 30px;
+}
+
+.redux-main textarea {
+	padding: 15px;
+}
+
+.redux-main .button:hover span.wp-media-buttons-icon {
+	color: #ffffff;
+}
+
+.redux-container .ui-buttonset .ui-button {
+	    line-height: 44px;
+    height: 45px;
+    padding: 0 25px;
+    vertical-align: middle;
+    text-shadow: none;
+    border-radius: 0;
+}
+
+.redux-main  .wp-core-ui .button-secondary:focus, .redux-main  .wp-core-ui .button.focus, .redux-main  .wp-core-ui .button:focus, .redux-main  input[type=checkbox]:focus, .redux-main  input[type=color]:focus, .redux-main  input[type=date]:focus, .redux-main  input[type=datetime-local]:focus, .redux-main  input[type=datetime]:focus, .redux-main  input[type=email]:focus, .redux-main  input[type=month]:focus, .redux-main  input[type=number]:focus, .redux-main  input[type=password]:focus, .redux-main  input[type=radio]:focus, .redux-main  input[type=search]:focus, .redux-main  input[type=tel]:focus, .redux-main  input[type=text]:focus, .redux-main  input[type=time]:focus, .redux-main  input[type=url]:focus, .redux-main  input[type=week]:focus, .redux-main  select:focus, .redux-main  textarea:focus {
+	box-shadow: none;
+	border-color: #19beec;
+}
+
+.redux-sidebar .redux-group-menu li.active a {
+	background: #19beec;
+}
+
+.admin-color-fresh  .redux-sidebar .redux-group-menu li.active a {
+	color: #ffffff;
+}
+
+.admin-color-fresh  .redux-sidebar .redux-group-menu li.active:hover a {
+	color: #19beec;
+}
+
+.form-table .redux-container-text input {
+	margin-bottom: 0;
+}
+
+.wp-admin .composer-switch a.wpb_switch-to-composer, .wp-admin .composer-switch a.wpb_switch-to-front-composer, .wp-admin .composer-switch a:visited.wpb_switch-to-front-composer {
+	background: #2b2b2b;
+}
+
+#wpb_visual_composer .vc_navbar .vc_icon-btn:hover, .wp-admin .composer-switch a.wpb_switch-to-composer:hover, .wp-admin .composer-switch a:visited.wpb_switch-to-composer:hover, .wp-admin .composer-switch a.wpb_switch-to-front-composer:hover, .wp-admin .composer-switch a:visited.wpb_switch-to-front-composer:hover {
+	background-color: #19beec;
+}
+
+.admin-color-fresh .redux-container-image_select .redux-image-select-selected img, .wp-customizer .redux-container-image_select .redux-image-select-selected img {
+	border-color: #19beec;
+}
+
+.wp-admin .composer-switch .logo-icon {
+	background-color: #2b2b2b;
+}
+
+.metabox-composer-content .vc_ui-button.vc_ui-button-info {
+	background: #19beec !important;
+}
+
+#wpb_visual_composer .vc_navbar {
+	background: #2b2b2b;
+	border-color: #2b2b2b;
+}
+
+.wp-admin .composer-switch .logo-icon:hover {
+	background-color: #19beec;
+}
+
+.wp-admin .vc_ui-panel-header-container {
+	background: #2b2b2b;
+}
+
+.wp-admin  .vc_add-element-container .wpb-content-layouts li:hover {
+	border-color: #19beec;
+}
+.wp-admin .vc_ui-button.vc_ui-button-default{background: #2b2b2b;}
+.wp-admin  .vc_ui-button.vc_ui-button-default:focus,.wp-admin  .vc_ui-button.vc_ui-button-default:hover {
+    background-color: #19beec;
+}
+.wp-admin   .vc_add-element-container .wpb-content-layouts li {
+	background: transparent;
+}
+
+.wp-core-ui .redux-main .form-table  .button-primary {
+	background: #2b2b2b;
+	border-color: #2b2b2b;
+	text-shadow: none;
+	box-shadow: none;
+}
+
+.wp-core-ui .redux-main .form-table  .button-primary:hover {
+	background: #19beec;
+	border-color: #19beec;
+}
+
+.wp-core-ui .redux-main .button-primary.active, .wp-core-ui .redux-main .button-primary.active:focus, .wp-core-ui .redux-main .button-primary.active:hover, .wp-core-ui .redux-main .button-primary:active, .admin-color-fresh .redux-container-switch .cb-enable.selected, .admin-color-fresh .redux-field-container .ui-buttonset .ui-state-active, .wp-customizer .redux-container-switch .cb-enable.selected, .wp-customizer .redux-field-container .ui-buttonset .ui-state-active {
+	box-shadow: none !important;
+	background: #19beec !important;
+	border-color: #19beec !important;
+}
+
+.wp-core-ui .redux-main .button-secondary:focus, .wp-core-ui .redux-main .button.focus, .wp-core-ui .redux-main .button:focus, .wp-core-ui .redux-main .button-primary.focus, .wp-core-ui .redux-main  .button-primary.hover, .wp-core-ui  .redux-main  .button-primary:focus, .wp-core-ui .redux-main  .button-primary:hover {
+	border-color: #19beec !important;
+	background: #19beec !important;
+	box-shadow: none !important;
+}
+
+.vc_add-element-container .wpb-content-layouts a {color:#2b2b2b;}
+.vc_el-container #vc_infobox_bgoverlay .vc_element-icon, .vc_el-container > #wooboxbanner > .vc_element-icon, .vc_el-container > #wooboxblog > .vc_element-icon, .vc_el-container > #wooboxButton > .vc_element-icon, .vc_el-container > #wooboxcircle > .vc_element-icon,.vc_el-container > #wooboxclient > .vc_element-icon,.vc_el-container > #wooboxcounter > .vc_element-icon,.vc_el-container > #wooboxList > .vc_element-icon,.vc_el-container > #wooboxoffers > .vc_element-icon,.vc_el-container > #wooboxofferspro > .vc_element-icon,.vc_el-container > #woobox_deal_offer > .vc_element-icon, .vc_el-container > #wooboxFancybox > .vc_element-icon , .vc_el-container > #wooboxFAQ > .vc_element-icon ,.vc_el-container > #wooboxfeaturedpro > .vc_element-icon ,.vc_el-container > #wooboxfeedback > .vc_element-icon ,.vc_el-container > #wooboxflinglayer > .vc_element-icon, .vc_el-container > #wooboxpricing > .vc_element-icon, .vc_el-container > #wooboxlistboxs > .vc_element-icon,.vc_el-container > #wooboxslider > .vc_element-icon,.vc_el-container > #wooboxsubscribe > .vc_element-icon,.vc_el-container > #wooboxsupport > .vc_element-icon,.vc_el-container > #wooboxtabs > .vc_element-icon,.vc_el-container > #wooboxteam > .vc_element-icon,.vc_el-container > #woobox_timer > .vc_element-icon,.vc_el-container > #wooboxtitle > .vc_element-icon,.vc_el-container > #wooboxvideo_offer > .vc_element-icon,.vc_el-container > #wooboxvideo > .vc_element-icon,.vc_el-container > #wooboxworkbox > .vc_element-icon,.vc_el-container > #wooboxproductcategory > .vc_element-icon{
+	background-position: 0 0;
+	background-image: url(../images/backend/icon.png);
+	-webkit-background-size: contain;
+	-moz-background-size: contain;
+	-ms-background-size: contain;
+	-o-background-size: contain;
+	background-size: contain;
+}
+.wp-admin .vc_ui-button.vc_ui-button-action,.wp-admin .vc_ui-button.vc_ui-button-action:focus, .wp-admin .vc_ui-button.vc_ui-button-action:hover{box-shadow: none; background: #19beec;border-color: #19beec;}
+.admin-color-fresh .redux-container-switch .cb-disable.selected, .wp-customizer .redux-container-switch .cb-disable.selected {
+	background-color: #19beec !important;
+	background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #19beec), color-stop(100%, #19beec)) !important;
+	border-color: #19beec !important;
+}
+.redux-main .input-prepend .add-on{border-radius: 0;}
+.redux-main .select2-container .select2-choice{height: 43px;line-height: 43px;border-radius: 0;    background-image: none;		}
+.redux-main .input-append .add-on, .redux-main .input-prepend .add-on{text-shadow: none;background: #2b2b2b;color: #ffffff;}
+.admin-color-fresh .select2-results .select2-highlighted, .wp-customizer .select2-results .select2-highlighted{background: #19beec;}
+.select2-drop.select2-drop-above .select2-search input{box-shadow: none;}
+ .select2-drop.select2-drop-above .select2-search input:focus {
+    box-shadow: none;
+    border-color: #19beec;
+}
+.select2-container .select2-choice .select2-arrow b{background-color:#2b2b2b;background-position: 0 10px;}
+.wp-picker-container .wp-color-result.button{height: 45px;}
+.wp-color-result-text{    background: #2b2b2b;
+    border-radius: 0;
+    border-left: 1px solid #2b2b2b;
+    color: #fff;
+    display: block;
+    line-height: 43px;
+    padding: 0 15px;}
+.redux-main .redux-typography-container .select_wrapper{    margin: 0 10px 30px 0;}
+.redux-main .redux-typography-container .input_wrapper input.mini{height: 50px;}
+.redux-main .description {
+    margin-top: 30px;
+}
